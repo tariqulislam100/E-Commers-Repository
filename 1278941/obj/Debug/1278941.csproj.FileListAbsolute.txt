@@ -1,0 +1,30 @@
+D:\MS VISUAL C#\1278941\1278941\bin\Debug\1278941.exe.config
+D:\MS VISUAL C#\1278941\1278941\bin\Debug\1278941.exe
+D:\MS VISUAL C#\1278941\1278941\bin\Debug\1278941.pdb
+D:\MS VISUAL C#\1278941\1278941\obj\Debug\1278941.csproj.AssemblyReference.cache
+D:\MS VISUAL C#\1278941\1278941\obj\Debug\1278941.csproj.CoreCompileInputs.cache
+D:\MS VISUAL C#\1278941\1278941\obj\Debug\1278941.exe
+D:\MS VISUAL C#\1278941\1278941\obj\Debug\1278941.pdb
+C:\Users\User\Desktop\New folder\1278941\1278941\bin\Debug\1278941.exe.config
+C:\Users\User\Desktop\New folder\1278941\1278941\bin\Debug\1278941.exe
+C:\Users\User\Desktop\New folder\1278941\1278941\bin\Debug\1278941.pdb
+C:\Users\User\Desktop\New folder\1278941\1278941\obj\Debug\1278941.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\1278941\1278941\obj\Debug\1278941.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\1278941\1278941\obj\Debug\1278941.exe
+C:\Users\User\Desktop\New folder\1278941\1278941\obj\Debug\1278941.pdb
+D:\Round-56\M3 All Classes\Bangla Practice\1278941\1278941\bin\Debug\1278941.exe.config
+D:\Round-56\M3 All Classes\Bangla Practice\1278941\1278941\bin\Debug\1278941.exe
+D:\Round-56\M3 All Classes\Bangla Practice\1278941\1278941\bin\Debug\1278941.pdb
+D:\Round-56\M3 All Classes\Bangla Practice\1278941\1278941\obj\Debug\1278941.csproj.AssemblyReference.cache
+D:\Round-56\M3 All Classes\Bangla Practice\1278941\1278941\obj\Debug\1278941.csproj.SuggestedBindingRedirects.cache
+D:\Round-56\M3 All Classes\Bangla Practice\1278941\1278941\obj\Debug\1278941.csproj.CoreCompileInputs.cache
+D:\Round-56\M3 All Classes\Bangla Practice\1278941\1278941\obj\Debug\1278941.exe
+D:\Round-56\M3 All Classes\Bangla Practice\1278941\1278941\obj\Debug\1278941.pdb
+C:\Users\LAB104-04\Desktop\1278941\1278941\bin\Debug\1278941.exe.config
+C:\Users\LAB104-04\Desktop\1278941\1278941\bin\Debug\1278941.exe
+C:\Users\LAB104-04\Desktop\1278941\1278941\bin\Debug\1278941.pdb
+C:\Users\LAB104-04\Desktop\1278941\1278941\obj\Debug\1278941.csproj.AssemblyReference.cache
+C:\Users\LAB104-04\Desktop\1278941\1278941\obj\Debug\1278941.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB104-04\Desktop\1278941\1278941\obj\Debug\1278941.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-04\Desktop\1278941\1278941\obj\Debug\1278941.exe
+C:\Users\LAB104-04\Desktop\1278941\1278941\obj\Debug\1278941.pdb

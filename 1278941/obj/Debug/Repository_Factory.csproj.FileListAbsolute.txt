@@ -1,0 +1,7 @@
+D:\Desktop\All Project\Repository_Factory C#\1278941\bin\Debug\1278941.exe.config
+D:\Desktop\All Project\Repository_Factory C#\1278941\bin\Debug\1278941.exe
+D:\Desktop\All Project\Repository_Factory C#\1278941\bin\Debug\1278941.pdb
+D:\Desktop\All Project\Repository_Factory C#\1278941\obj\Debug\Repository_Factory.csproj.AssemblyReference.cache
+D:\Desktop\All Project\Repository_Factory C#\1278941\obj\Debug\Repository_Factory.csproj.CoreCompileInputs.cache
+D:\Desktop\All Project\Repository_Factory C#\1278941\obj\Debug\1278941.exe
+D:\Desktop\All Project\Repository_Factory C#\1278941\obj\Debug\1278941.pdb
